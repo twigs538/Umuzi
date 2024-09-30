@@ -1,0 +1,6 @@
+README.md
+setup.py
+validate_sa_id.egg-info/PKG-INFO
+validate_sa_id.egg-info/SOURCES.txt
+validate_sa_id.egg-info/dependency_links.txt
+validate_sa_id.egg-info/top_level.txt
